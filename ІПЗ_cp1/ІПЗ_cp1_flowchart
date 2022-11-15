@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T13:38:48.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="PNCHkeVOTvYKYS2PW8kA" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T13:42:37.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="MtWNTwqjyaN1DY9wpGwS" version="20.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1185" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -31,33 +31,23 @@
         <mxCell id="2HKxI7mgCp-eqlr_BWJQ-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Online&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;exitX=0.48;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKxI7mgCp-eqlr_BWJQ-49" target="2HKxI7mgCp-eqlr_BWJQ-13">
+        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKxI7mgCp-eqlr_BWJQ-7" target="2HKxI7mgCp-eqlr_BWJQ-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="340" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="238" y="332" />
-              <mxPoint x="240" y="332" />
-              <mxPoint x="240" y="361" />
+              <mxPoint x="415" y="240" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKxI7mgCp-eqlr_BWJQ-7" target="2HKxI7mgCp-eqlr_BWJQ-49">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2HKxI7mgCp-eqlr_BWJQ-7" value="&lt;font size=&quot;1&quot;&gt;Проведення опитування серед знайомих, родичів або колег, які мають доманшіх улюбленців&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#CFCFCF;gradientColor=none;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="166" y="200" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKxI7mgCp-eqlr_BWJQ-8" target="2HKxI7mgCp-eqlr_BWJQ-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKxI7mgCp-eqlr_BWJQ-8" target="2HKxI7mgCp-eqlr_BWJQ-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2HKxI7mgCp-eqlr_BWJQ-8" value="&lt;font size=&quot;1&quot;&gt;Пошук різних видів домашніх улюбленців в інтернеті&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="220" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKxI7mgCp-eqlr_BWJQ-10" target="2HKxI7mgCp-eqlr_BWJQ-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-10" value="&lt;font size=&quot;1&quot;&gt;Аналіз переваг та недоліків тих чи інших доманшіх тваринок&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#CFCFCF;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="290" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2HKxI7mgCp-eqlr_BWJQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKxI7mgCp-eqlr_BWJQ-13" target="2HKxI7mgCp-eqlr_BWJQ-20">
           <mxGeometry relative="1" as="geometry" />
@@ -116,11 +106,43 @@
         <mxCell id="2HKxI7mgCp-eqlr_BWJQ-36" value="&lt;font size=&quot;1&quot;&gt;Обговорення ціни, вимог та інших деталей стосовно покупки домашнього улюбленця&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#CFCFCF;gradientColor=none;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="339" y="700" width="151" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-48" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;Вибір типу інтернет-&lt;br&gt;ресурсу для покупки домашньої&lt;br&gt;тваринки&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CFCFCF;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="318" y="800" width="193" height="90" as="geometry" />
+        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKxI7mgCp-eqlr_BWJQ-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.5" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-48" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Задоволення ціною і вимогами&lt;br&gt;покупця та продавця&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CFCFCF;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="318" y="800" width="193" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKxI7mgCp-eqlr_BWJQ-49" target="2HKxI7mgCp-eqlr_BWJQ-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2HKxI7mgCp-eqlr_BWJQ-49" value="&lt;font size=&quot;1&quot;&gt;Аналіз переваг та недоліків тих чи інших доманшіх тваринок&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#CFCFCF;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="166" y="300" width="150" height="40" as="geometry" />
+          <mxGeometry x="340" y="260" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-55" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ні&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="810" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-58" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKxI7mgCp-eqlr_BWJQ-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="770" as="sourcePoint" />
+            <mxPoint x="120" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-59" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="840" as="sourcePoint" />
+            <mxPoint x="120" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-60" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="490" as="sourcePoint" />
+            <mxPoint x="414" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HKxI7mgCp-eqlr_BWJQ-62" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Так&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="369" y="880" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
