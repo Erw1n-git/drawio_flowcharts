@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T15:29:47.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="FuUzGIhcseTZ7IVTDW3j" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T15:34:50.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="U_X8rXN3MqIPIZDifqtv" version="20.6.0" type="github">
   <diagram id="hPVOXPCk3nHslekp-9Tc" name="Page-1">
-    <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1831" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A-aubnbJQ1N6AmdMV_b0-1" value="Вимоги до успадкованого ПО&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="A-aubnbJQ1N6AmdMV_b0-1" value="Вимоги до успадкованого ПЗ&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A-aubnbJQ1N6AmdMV_b0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A-aubnbJQ1N6AmdMV_b0-3" target="A-aubnbJQ1N6AmdMV_b0-1" edge="1">
@@ -25,7 +25,7 @@
             <mxPoint x="450" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A-aubnbJQ1N6AmdMV_b0-7" value="Наочність ходу роботи ПО&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="A-aubnbJQ1N6AmdMV_b0-7" value="Наочність ходу роботи ПЗ&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="510" y="170" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A-aubnbJQ1N6AmdMV_b0-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" target="A-aubnbJQ1N6AmdMV_b0-5" edge="1">
@@ -63,6 +63,12 @@
             <mxPoint x="285" y="210" as="sourcePoint" />
             <mxPoint x="207.5" y="110" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="W3mbEq8_BNBoiPoz-Yw2-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="90" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W3mbEq8_BNBoiPoz-Yw2-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="860" y="40" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
