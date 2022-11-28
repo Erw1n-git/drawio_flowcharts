@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T13:56:53.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="ngNdKf3g7xW6TFJRT_ZF" type="github"><diagram id="n-Bu7ngo-iY48pekmJLd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-28T14:12:30.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="zfugmNeTJ1OsaqlD3zm3" type="github">
+  <diagram id="y97aUAivKiggMvHKX851" name="Page-1">
+    <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-1" value="Вимоги до ПО&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAzaTjfpWr98Ln_chxlX-4" target="HAzaTjfpWr98Ln_chxlX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-4" value="Функціональні вимоги&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAzaTjfpWr98Ln_chxlX-5" target="HAzaTjfpWr98Ln_chxlX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-5" value="Нефункціональні&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="HAzaTjfpWr98Ln_chxlX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="170" as="sourcePoint" />
+            <mxPoint x="450" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-9" value="Зручність&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="170" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="HAzaTjfpWr98Ln_chxlX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="170" as="sourcePoint" />
+            <mxPoint x="650" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-11" value="&amp;nbsp;Відмовостійкість&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-15" value="Приймати дані користувача&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-16" value="Перевіряти на нявність помилок&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-17" value="Пояснити помилку&amp;nbsp;&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-18" value="Залежність формули обрахування від &lt;br&gt;введених даних&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-19" value="Обраховувати за заданими формулами&amp;nbsp;&lt;br&gt;&amp;lt;&amp;lt;requirements&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HAzaTjfpWr98Ln_chxlX-15" target="HAzaTjfpWr98Ln_chxlX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.364;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HAzaTjfpWr98Ln_chxlX-18" target="HAzaTjfpWr98Ln_chxlX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="210" as="sourcePoint" />
+            <mxPoint x="142.5" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HAzaTjfpWr98Ln_chxlX-16" target="HAzaTjfpWr98Ln_chxlX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="210" as="sourcePoint" />
+            <mxPoint x="142.5" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.618;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HAzaTjfpWr98Ln_chxlX-17" target="HAzaTjfpWr98Ln_chxlX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="210" as="sourcePoint" />
+            <mxPoint x="207.5" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAzaTjfpWr98Ln_chxlX-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="HAzaTjfpWr98Ln_chxlX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="350" as="sourcePoint" />
+            <mxPoint x="190.33999999999992" y="110.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
