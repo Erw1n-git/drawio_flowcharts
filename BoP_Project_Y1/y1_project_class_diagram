@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T14:57:46.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="BD-X51kln3-YwZxB62LG" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T15:14:59.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="Ay8o-9YwdsKpPDzTQtXk" version="21.2.6" type="github">
   <diagram name="Page-1" id="pghCGfxe3P0TvoGq4hJ2">
-    <mxGraphModel dx="2013" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,11 +76,8 @@
             <mxPoint x="330" y="257" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0EllEqZwadlLhaSRKuaF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;endSize=12;" edge="1" parent="1" source="0EllEqZwadlLhaSRKuaF-26" target="0EllEqZwadlLhaSRKuaF-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0EllEqZwadlLhaSRKuaF-26" value="&lt;div&gt;main&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="560" width="150" height="80" as="geometry">
+          <mxGeometry x="690" y="170" width="150" height="80" as="geometry">
             <mxRectangle x="265" y="160" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -94,6 +91,26 @@
           <mxGeometry y="58" width="150" height="22" as="geometry" />
         </mxCell>
         <mxCell id="0EllEqZwadlLhaSRKuaF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="0EllEqZwadlLhaSRKuaF-26" source="0EllEqZwadlLhaSRKuaF-27" target="0EllEqZwadlLhaSRKuaF-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EllEqZwadlLhaSRKuaF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.012;entryY=0.835;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;endSize=12;dashed=1;" edge="1" parent="1" source="0EllEqZwadlLhaSRKuaF-27" target="0EllEqZwadlLhaSRKuaF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EllEqZwadlLhaSRKuaF-34" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;lt;&amp;lt;Singleton&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;Score" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="200" height="170" as="geometry">
+            <mxRectangle x="265" y="160" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EllEqZwadlLhaSRKuaF-35" value="&lt;div&gt;- currentScore : int&lt;/div&gt;&lt;div&gt;- previousScore : int&lt;/div&gt;&lt;div&gt;- recordScore : int&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0EllEqZwadlLhaSRKuaF-34">
+          <mxGeometry y="40" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0EllEqZwadlLhaSRKuaF-36" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="0EllEqZwadlLhaSRKuaF-34">
+          <mxGeometry y="90" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="0EllEqZwadlLhaSRKuaF-37" value="&lt;div&gt;+ static getInstance() : Score&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ addCurrentScore(score : int) : void&lt;/div&gt;&lt;div&gt;+ readRecordFromFile() : int&lt;br&gt;+ writeRecordToFile() : int&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0EllEqZwadlLhaSRKuaF-34">
+          <mxGeometry y="98" width="200" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="0EllEqZwadlLhaSRKuaF-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="0EllEqZwadlLhaSRKuaF-34" source="0EllEqZwadlLhaSRKuaF-35" target="0EllEqZwadlLhaSRKuaF-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
