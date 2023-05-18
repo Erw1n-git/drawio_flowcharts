@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T13:25:34.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="rz-Bw1k9xzDbzD1nNnqJ" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T13:26:41.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="1NZqrJG6lW9vk-Fb9OKT" version="21.2.6" type="github">
   <diagram name="Page-1" id="guHseup4qGt0xnpUys-H">
     <mxGraphModel dx="744" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="WwVFCMFpU4odY5ts0HCS-4" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;Оноволення поля гри&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="270" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WwVFCMFpU4odY5ts0HCS-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="WwVFCMFpU4odY5ts0HCS-4" target="WwVFCMFpU4odY5ts0HCS-6">
+        <mxCell id="WwVFCMFpU4odY5ts0HCS-5" value="" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endFill=0;" edge="1" parent="1" source="WwVFCMFpU4odY5ts0HCS-4" target="WwVFCMFpU4odY5ts0HCS-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="420" as="sourcePoint" />
             <mxPoint x="400" y="300" as="targetPoint" />
@@ -34,7 +34,7 @@
         <mxCell id="WwVFCMFpU4odY5ts0HCS-8" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;Налаштування поля гри&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WwVFCMFpU4odY5ts0HCS-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WwVFCMFpU4odY5ts0HCS-8" target="WwVFCMFpU4odY5ts0HCS-10">
+        <mxCell id="WwVFCMFpU4odY5ts0HCS-9" value="" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="WwVFCMFpU4odY5ts0HCS-8" target="WwVFCMFpU4odY5ts0HCS-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="305" as="sourcePoint" />
             <mxPoint x="410" y="320" as="targetPoint" />
@@ -52,7 +52,7 @@
         <mxCell id="WwVFCMFpU4odY5ts0HCS-12" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;Здійснення гри&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="380" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WwVFCMFpU4odY5ts0HCS-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WwVFCMFpU4odY5ts0HCS-12" target="WwVFCMFpU4odY5ts0HCS-14">
+        <mxCell id="WwVFCMFpU4odY5ts0HCS-13" value="" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="WwVFCMFpU4odY5ts0HCS-12" target="WwVFCMFpU4odY5ts0HCS-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="360" as="sourcePoint" />
             <mxPoint x="390" y="400" as="targetPoint" />
@@ -61,7 +61,7 @@
         <mxCell id="WwVFCMFpU4odY5ts0HCS-14" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;Підрахунок часу&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="360" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WwVFCMFpU4odY5ts0HCS-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.798;exitY=0.862;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WwVFCMFpU4odY5ts0HCS-12" target="WwVFCMFpU4odY5ts0HCS-16">
+        <mxCell id="WwVFCMFpU4odY5ts0HCS-15" value="" style="endArrow=open;html=1;rounded=0;exitX=0.798;exitY=0.862;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="WwVFCMFpU4odY5ts0HCS-12" target="WwVFCMFpU4odY5ts0HCS-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="410" as="sourcePoint" />
             <mxPoint x="410" y="440" as="targetPoint" />
@@ -82,7 +82,7 @@
         <mxCell id="WwVFCMFpU4odY5ts0HCS-20" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;lt;&amp;lt; include &amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-25;" vertex="1" parent="1">
           <mxGeometry x="320" y="250" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WwVFCMFpU4odY5ts0HCS-22" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;lt;&amp;lt; include &amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=351;" vertex="1" parent="1">
+        <mxCell id="WwVFCMFpU4odY5ts0HCS-22" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;lt;&amp;lt; include &amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=352;" vertex="1" parent="1">
           <mxGeometry x="335" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WwVFCMFpU4odY5ts0HCS-23" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;lt;&amp;lt; include &amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=348;" vertex="1" parent="1">
