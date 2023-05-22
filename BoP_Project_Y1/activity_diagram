@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T15:01:12.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="9Lp4UHeZtq554_aCO7NL" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T15:05:35.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="7q6bJnWurJDniq_5MPI-" version="21.3.2" type="github">
   <diagram name="Page-1" id="hM3DbPmY9hSRf68toAsD">
-    <mxGraphModel dx="1302" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1077" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,10 +29,8 @@
         <mxCell id="Tsmgy7RFW2gKoOD6b-ak-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tsmgy7RFW2gKoOD6b-ak-8" target="Tsmgy7RFW2gKoOD6b-ak-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7XnZcHRNYrXm25xp0PC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tsmgy7RFW2gKoOD6b-ak-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="400" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="H7XnZcHRNYrXm25xp0PC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tsmgy7RFW2gKoOD6b-ak-8" target="Tsmgy7RFW2gKoOD6b-ak-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tsmgy7RFW2gKoOD6b-ak-8" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="382.5" y="320" width="85" height="50" as="geometry" />
@@ -41,7 +39,7 @@
           <mxGeometry x="420" y="360" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tsmgy7RFW2gKoOD6b-ak-11" value="gameState (стан гри) != 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="230" y="310" width="160" height="30" as="geometry" />
+          <mxGeometry x="222.5" y="320" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tsmgy7RFW2gKoOD6b-ak-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Tsmgy7RFW2gKoOD6b-ak-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -63,16 +61,19 @@
             <mxPoint x="420" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H7XnZcHRNYrXm25xp0PC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tsmgy7RFW2gKoOD6b-ak-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="480" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="H7XnZcHRNYrXm25xp0PC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tsmgy7RFW2gKoOD6b-ak-22" target="H7XnZcHRNYrXm25xp0PC-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tsmgy7RFW2gKoOD6b-ak-22" value="&lt;div&gt;створення поля гри заданого розміру; створення двох кубів у випадковому місці&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="60" y="400" width="200" height="50" as="geometry" />
+          <mxGeometry x="99" y="400" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H7XnZcHRNYrXm25xp0PC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H7XnZcHRNYrXm25xp0PC-5" target="H7XnZcHRNYrXm25xp0PC-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="H7XnZcHRNYrXm25xp0PC-5" value="ініціалізація рахунків гри; запуск таймеру" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="77.5" y="480" width="165" height="40" as="geometry" />
+          <mxGeometry x="116.5" y="480" width="165" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H7XnZcHRNYrXm25xp0PC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H7XnZcHRNYrXm25xp0PC-11" target="Tsmgy7RFW2gKoOD6b-ak-8">
           <mxGeometry relative="1" as="geometry" />
@@ -88,6 +89,15 @@
         </mxCell>
         <mxCell id="H7XnZcHRNYrXm25xp0PC-13" value="gameState = 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="646" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H7XnZcHRNYrXm25xp0PC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H7XnZcHRNYrXm25xp0PC-23" target="H7XnZcHRNYrXm25xp0PC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7XnZcHRNYrXm25xp0PC-23" value="зчитування нажать на стрілки клавіатури для руху кубів" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="99" y="550" width="208.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H7XnZcHRNYrXm25xp0PC-26" value="виклик функції руху кубів з вказаним напрямком " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="344.75" y="555" width="160.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
