@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T15:33:30.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="_VyJOIxYx3iAJOVCdHvu" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T15:35:51.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="ZAy9JHAmBJN5CwBUlIjm" version="21.3.2" type="github">
   <diagram name="Page-1" id="hM3DbPmY9hSRf68toAsD">
-    <mxGraphModel dx="1838" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="1350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
         <mxCell id="Tsmgy7RFW2gKoOD6b-ak-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tsmgy7RFW2gKoOD6b-ak-8" target="Tsmgy7RFW2gKoOD6b-ak-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MlhSwAluxT_3v9bJw4AO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tsmgy7RFW2gKoOD6b-ak-8" target="MlhSwAluxT_3v9bJw4AO-30">
+        <mxCell id="H7XnZcHRNYrXm25xp0PC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tsmgy7RFW2gKoOD6b-ak-8" target="Tsmgy7RFW2gKoOD6b-ak-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tsmgy7RFW2gKoOD6b-ak-8" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
@@ -39,7 +39,7 @@
           <mxGeometry x="420" y="360" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tsmgy7RFW2gKoOD6b-ak-11" value="gameState (стан гри) != 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="222.5" y="310" width="160" height="30" as="geometry" />
+          <mxGeometry x="222.5" y="320" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tsmgy7RFW2gKoOD6b-ak-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Tsmgy7RFW2gKoOD6b-ak-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -65,10 +65,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tsmgy7RFW2gKoOD6b-ak-22" value="&lt;div&gt;створення поля гри заданого розміру; створення двох кубів у випадковому місці&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="99" y="420" width="200" height="50" as="geometry" />
+          <mxGeometry x="99" y="400" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H7XnZcHRNYrXm25xp0PC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="H7XnZcHRNYrXm25xp0PC-5" target="H7XnZcHRNYrXm25xp0PC-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="H7XnZcHRNYrXm25xp0PC-5" value="ініціалізація рахунків гри; запуск таймеру" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="116.5" y="490" width="165" height="40" as="geometry" />
+          <mxGeometry x="116.5" y="480" width="165" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H7XnZcHRNYrXm25xp0PC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="H7XnZcHRNYrXm25xp0PC-11" target="Tsmgy7RFW2gKoOD6b-ak-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -177,13 +182,13 @@
             <mxPoint x="50" y="298.3333333333333" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MlhSwAluxT_3v9bJw4AO-18" value="оновлення рахунків" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="378.88" y="970" width="117.5" height="30" as="geometry" />
+        <mxCell id="MlhSwAluxT_3v9bJw4AO-18" value="gameState = 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="378.88" y="1020" width="117.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MlhSwAluxT_3v9bJw4AO-19" value="Натиснуті стрілки клавіатури" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="595" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MlhSwAluxT_3v9bJw4AO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MlhSwAluxT_3v9bJw4AO-22" target="MlhSwAluxT_3v9bJw4AO-18">
+        <mxCell id="MlhSwAluxT_3v9bJw4AO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MlhSwAluxT_3v9bJw4AO-22" target="MlhSwAluxT_3v9bJw4AO-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MlhSwAluxT_3v9bJw4AO-22" value="очищення поля" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -201,17 +206,11 @@
             <mxPoint x="425" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MlhSwAluxT_3v9bJw4AO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MlhSwAluxT_3v9bJw4AO-30" target="Tsmgy7RFW2gKoOD6b-ak-22">
+        <mxCell id="MlhSwAluxT_3v9bJw4AO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MlhSwAluxT_3v9bJw4AO-36" target="MlhSwAluxT_3v9bJw4AO-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MlhSwAluxT_3v9bJw4AO-30" value="gameState = 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="133.25" y="370" width="131.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MlhSwAluxT_3v9bJw4AO-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H7XnZcHRNYrXm25xp0PC-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="520" as="sourcePoint" />
-            <mxPoint x="199" y="550" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="MlhSwAluxT_3v9bJw4AO-36" value="оновлення рахунків" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="378.88" y="970" width="117.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
